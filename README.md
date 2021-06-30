@@ -1,6 +1,5 @@
 Hello, everyone! 
 
-Have a look at some of my favore projects!
+Contact me at:
 
-final-fantasy-14-app
-survival-chess
+https://www.linkedin.com/feed/
