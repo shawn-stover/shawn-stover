@@ -6,6 +6,7 @@ Contact me at:
 [CodePen](https://codepen.io/Shawn_Stover)
 
 My Interests Are:\
+\
 Building Computers\
 Coding\
 Working on Computers\
