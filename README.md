@@ -2,4 +2,4 @@ Hello, everyone!
 
 Contact me at:
 
-https://www.linkedin.com/feed/
+[Linkedin](https://www.linkedin.com/in/shawn-stover-se/)
